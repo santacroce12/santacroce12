@@ -1,219 +1,144 @@
 # Hi everyone, I'm Luca 👋
 
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="42%" />
+<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="38%" />
 
-<p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
 
 <ul>
   <li>🎓 I'm an <b>advanced Systems student</b></li>
   <li>📍 Based in <b>Mendoza, Argentina</b></li>
-  <li>🏢 I'm currently working at <b>CuencoTech</b></li>
-  <li>💻 I work on <b>web development, IT support and technology integrations</b></li>
-  <li>📹 I have experience with <b>security cameras, IP video surveillance, NVR/DVR, networks and PoE devices</b></li>
-  <li>🚀 I'm currently developing web projects such as <b>LYNX</b></li>
-  <li>💬 You can ask me about <b>web development, IT support, hosting, cameras, networks and digital infrastructure for companies</b></li>
+  <li>🏢 Currently working at <b>CuencoTech</b></li>
+  <li>💻 I work with <b>web development, IT support and technology integrations</b></li>
+  <li>📹 Experience with <b>IP cameras, NVR/DVR, networks, PoE and security systems</b></li>
+  <li>🚀 Currently developing independent web projects such as <b>LYNX</b></li>
+  <li>🧩 Focused on helping companies improve their <b>digital infrastructure</b></li>
 </ul>
 
 I'm focused on building practical technology solutions for real business needs.
-My experience combines <b>software development</b>, <b>web projects</b>, <b>IT support</b>, <b>security electronics</b> and <b>system integrations</b>.
+My experience combines **web development**, **IT support**, **security electronics**, **networks**, **hosting**, **digital infrastructure** and **system integrations**.
 
-I currently work at <b>CuencoTech</b>, where I participate in projects related to security cameras, IP video surveillance, NVR/DVR systems, networks, connectivity, technical support and integrations.
-I also work on independent web projects, including corporate websites, landing pages, internal tools, quotation systems and digital solutions for small and medium-sized businesses.
+I currently work at **CuencoTech**, where I participate in projects related to security cameras, IP video surveillance, NVR/DVR systems, connectivity, technical support and technology integrations.
 
-My goal is to help companies improve their digital infrastructure with clear, useful and scalable solutions.
+I also develop independent web projects, including corporate websites, landing pages, internal tools, quotation systems and digital solutions for small and medium-sized businesses.
 
-</p>
+My goal is to help companies organize, improve and scale their digital infrastructure with clear, useful and functional solutions.
 
 ---
 
-## 🌐 You can find me on
+## 🌐 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/santacroce12" target="_blank">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-santacroce12-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/juan-luca-santacroce/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Luca%20Santacroce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🖥️ My tech stack
+## 🖥️ Tech Stack
 
 ### Frontend
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### Backend & Databases
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-### Tools & Infrastructure
+### Tools & Platforms
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-### IT, Security & Integrations
+### IT, Hosting & Infrastructure
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      📹
-      <br>IP Cameras
-    </td>
-    <td align="center" width="140">
-      🎥
-      <br>NVR / DVR
-    </td>
-    <td align="center" width="140">
-      🌐
-      <br>Networks
-    </td>
-    <td align="center" width="140">
-      ⚡
-      <br>PoE
-    </td>
-    <td align="center" width="140">
-      🖥️
-      <br>DexManager
-    </td>
-    <td align="center" width="140">
-      ☁️
-      <br>Hosting / DNS
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Hosting" />
+  <img src="https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365" />
+</p>
+
+### Security Electronics & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/IP_Cameras-1F2937?style=for-the-badge&logo=camera&logoColor=white" alt="IP Cameras" />
+  <img src="https://img.shields.io/badge/NVR%20%2F%20DVR-111827?style=for-the-badge&logo=video&logoColor=white" alt="NVR DVR" />
+  <img src="https://img.shields.io/badge/PoE-065F46?style=for-the-badge&logo=powerbi&logoColor=white" alt="PoE" />
+  <img src="https://img.shields.io/badge/Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
+  <img src="https://img.shields.io/badge/DexManager-374151?style=for-the-badge&logo=databricks&logoColor=white" alt="DexManager" />
+</p>
 
 ---
 
-## 🚧 Projects and experience
+## 🚧 Projects & Experience
 
 ### 🐆 LYNX
 
 Independent web development project focused on building a modern corporate website.
 
-<ul>
-  <li>Development of a corporate website</li>
-  <li>Responsive design and modern UI</li>
-  <li>Frontend development with React / TypeScript</li>
-  <li>Focus on digital presence and business communication</li>
-</ul>
-
-🔗 Repository: <a href="https://github.com/santacroce12/LYNX">github.com/santacroce12/LYNX</a>
+* Corporate website development
+* Responsive design
+* Modern UI
+* Frontend development
+* Digital presence for business communication
 
 ---
 
 ### 🧾 Cotizador Cuenco
 
-Internal quotation tool developed to support business and technical processes.
+Quotation tool developed to support business and technical processes.
 
-<ul>
-  <li>Custom software development</li>
-  <li>Tool focused on improving quotation workflows</li>
-  <li>Project linked to real business needs</li>
-  <li>Experience with web development and internal tools</li>
-</ul>
-
-🔗 Repository: <a href="https://github.com/santacroce12/Cotizador-Cuenco">github.com/santacroce12/Cotizador-Cuenco</a>
+* Custom software development
+* Internal tool for quotation workflows
+* Web-based solution focused on real business needs
+* Experience with forms, data handling and business logic
 
 ---
 
-### 📹 Security cameras & technology integrations
+### 📹 Security Cameras & IT Support
 
-Experience at CuencoTech with security electronics and IT support.
+Experience at CuencoTech with security electronics, technical support and technology integrations.
 
-<ul>
-  <li>IP cameras and video surveillance systems</li>
-  <li>NVR/DVR configuration and support</li>
-  <li>Networks, connectivity and PoE devices</li>
-  <li>Technical support and troubleshooting</li>
-  <li>Integrations with platforms such as DexManager</li>
-  <li>Visual templates for displaying operational data on monitors</li>
-</ul>
+* IP cameras and video surveillance systems
+* NVR/DVR configuration and support
+* Networks, connectivity and PoE devices
+* Technical support and troubleshooting
+* Integrations with platforms such as DexManager
+* Visual templates for displaying operational data on monitors
 
 ---
 
-### 🧩 Digital infrastructure for companies
+### 🧩 Digital Infrastructure for Companies
 
-Experience helping companies improve and organize their digital infrastructure.
+Experience helping companies organize and improve their digital infrastructure.
 
-<ul>
-  <li>Websites and landing pages</li>
-  <li>Hosting and domain configuration</li>
-  <li>Corporate email setup and migrations</li>
-  <li>DNS records and basic infrastructure support</li>
-  <li>Documentation and process organization</li>
-</ul>
+* Websites and landing pages
+* Hosting and domain configuration
+* Corporate email setup and migrations
+* DNS records and basic infrastructure support
+* Documentation and process organization
 
 ---
 
@@ -250,8 +175,8 @@ Experience helping companies improve and organize their digital infrastructure.
   <li><b>Frontend:</b> React, TypeScript, Next.js, Tailwind CSS</li>
   <li><b>Backend:</b> Python, Django, Django REST Framework</li>
   <li><b>Databases:</b> PostgreSQL, MySQL</li>
-  <li><b>Tools:</b> Docker, Postman, Vercel, hosting panels, DNS management</li>
-  <li><b>IT Field:</b> IP cameras, NVR/DVR, PoE, networks, monitoring systems</li>
+  <li><b>Tools:</b> Docker, Postman, Vercel, hosting panels and DNS management</li>
+  <li><b>IT Field:</b> IP cameras, NVR/DVR, PoE, networks and monitoring systems</li>
 </ul>
 
 ---
