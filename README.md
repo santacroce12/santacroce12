@@ -9,13 +9,14 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <li>📍 Based in <b>Mendoza, Argentina</b></li>
   <li>🏢 Currently working at <b>CuencoTech</b></li>
   <li>💻 I work with <b>web development, IT support and technology integrations</b></li>
+  <li>☕ I develop backend solutions with <b>Java and Spring Boot</b></li>
   <li>📹 Experience with <b>IP cameras, NVR/DVR, networks, PoE and security systems</b></li>
   <li>🚀 Currently developing independent web projects such as <b>LYNX</b></li>
   <li>🧩 Focused on helping companies improve their <b>digital infrastructure</b></li>
 </ul>
 
 I'm focused on building practical technology solutions for real business needs.
-My experience combines **web development**, **IT support**, **security electronics**, **networks**, **hosting**, **digital infrastructure** and **system integrations**.
+My experience combines **web development**, **Java and Spring Boot backend development**, **IT support**, **security electronics**, **networks**, **hosting**, **digital infrastructure** and **system integrations**.
 
 I currently work at **CuencoTech**, where I participate in projects related to security cameras, IP video surveillance, NVR/DVR systems, connectivity, technical support and technology integrations.
 
@@ -28,6 +29,9 @@ My goal is to help companies organize, improve and scale their digital infrastru
 ## 🌐 Contact
 
 <p align="center">
+  <a href="mailto:lucasantacrocee@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lucasantacrocee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/juan-luca-santacroce/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Luca%20Santacroce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -52,6 +56,8 @@ My goal is to help companies organize, improve and scale their digital infrastru
 ### Backend & Databases
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
@@ -142,27 +148,24 @@ Experience helping companies organize and improve their digital infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Github stats:
 
-<details>
-  <summary><b>⚡ My GitHub Stats</b></summary>
+<p align="center">
+  <a href="https://github.com/santacroce12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santacroce12&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" alt="Luca's GitHub stats" />
+  </a>
+  <a href="https://github.com/santacroce12">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&theme=material-palenight&hide_border=true" alt="Luca's GitHub streak" />
+  </a>
+</p>
 
-  <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santacroce12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santacroce12&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santacroce12&hide_border=true&layout=compact&langs_count=8" />
-
-</details>
-
-<details>
-  <summary><b>☄️ GitHub Streak</b></summary>
-
-  <br />
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&hide_border=true" />
-
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santacroce12&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 ---
 
@@ -173,7 +176,7 @@ Experience helping companies organize and improve their digital infrastructure.
   <li><b>Code Editor:</b> Visual Studio Code</li>
   <li><b>Version Control:</b> Git & GitHub</li>
   <li><b>Frontend:</b> React, TypeScript, Next.js, Tailwind CSS</li>
-  <li><b>Backend:</b> Python, Django, Django REST Framework</li>
+  <li><b>Backend:</b> Java, Spring Boot, Python, Django, Django REST Framework</li>
   <li><b>Databases:</b> PostgreSQL, MySQL</li>
   <li><b>Tools:</b> Docker, Postman, Vercel, hosting panels and DNS management</li>
   <li><b>IT Field:</b> IP cameras, NVR/DVR, PoE, networks and monitoring systems</li>
