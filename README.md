@@ -150,21 +150,17 @@ Experience helping companies organize and improve their digital infrastructure.
 
 ## 📊 Github stats:
 
-<p align="center">
-  <a href="https://github.com/santacroce12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santacroce12&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" alt="Luca's GitHub stats" />
-  </a>
-  <a href="https://github.com/santacroce12">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&theme=material-palenight&hide_border=true" alt="Luca's GitHub streak" />
-  </a>
-</p>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+
+[![](https://github-readme-stats.vercel.app/api?username=santacroce12&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true)](https://github.com/santacroce12)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&theme=material-palenight)](https://github.com/santacroce12)
+</div>
+
+----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santacroce12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santacroce12&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/santacroce12/santacroce12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
