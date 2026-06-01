@@ -16,6 +16,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 </ul>
 
 I'm focused on building practical technology solutions for real business needs.
+
 My experience combines **web development**, **Java and Spring Boot backend development**, **IT support**, **security electronics**, **networks**, **hosting**, **digital infrastructure** and **system integrations**.
 
 I currently work at **CuencoTech**, where I participate in projects related to security cameras, IP video surveillance, NVR/DVR systems, connectivity, technical support and technology integrations.
@@ -34,6 +35,9 @@ My goal is to help companies organize, improve and scale their digital infrastru
   </a>
   <a href="https://www.linkedin.com/in/juan-luca-santacroce/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Luca%20Santacroce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/santacroce12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-santacroce12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -93,7 +97,7 @@ My goal is to help companies organize, improve and scale their digital infrastru
   <img src="https://img.shields.io/badge/NVR%20%2F%20DVR-111827?style=for-the-badge&logo=video&logoColor=white" alt="NVR DVR" />
   <img src="https://img.shields.io/badge/PoE-065F46?style=for-the-badge&logo=powerbi&logoColor=white" alt="PoE" />
   <img src="https://img.shields.io/badge/Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
-  <img src="https://img.shields.io/badge/DexManager-374151?style=for-the-badge&logo=databricks&logoColor=white" alt="DexManager" />
+  <img src="https://img.shields.io/badge/DexxManager-374151?style=for-the-badge&logo=databricks&logoColor=white" alt="DexxManager" />
 </p>
 
 ---
@@ -131,7 +135,7 @@ Experience at CuencoTech with security electronics, technical support and techno
 * NVR/DVR configuration and support
 * Networks, connectivity and PoE devices
 * Technical support and troubleshooting
-* Integrations with platforms such as DexManager
+* Integrations with platforms such as DexxManager
 * Visual templates for displaying operational data on monitors
 
 ---
@@ -151,16 +155,21 @@ Experience helping companies organize and improve their digital infrastructure.
 ## 📊 Github stats:
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=santacroce12&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true)](https://github.com/santacroce12)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&theme=material-palenight)](https://github.com/santacroce12)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=santacroce12&theme=material-palenight&hide_border=true)](https://github.com/santacroce12)
+
 </div>
 
-----
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/santacroce12/santacroce12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santacroce12/santacroce12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santacroce12/santacroce12/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/santacroce12/santacroce12/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
